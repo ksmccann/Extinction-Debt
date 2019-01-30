@@ -1,4 +1,4 @@
-# yada1
+# ProgramExtinctDebt
 using Distributions
 using DifferentialEquations
 using FoodWebs
